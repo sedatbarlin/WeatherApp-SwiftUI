@@ -1,4 +1,4 @@
-<h1 align="center"> 🌥️ Foodie 🌧️ </h1>
+<h1 align="center"> 🌥️ Weather App UI 🌧️ </h1>
 <h4 align="center"> Weather App UI with SwiftUI 🎈 <h4>
 
 ## :fire: Implemented Using 
