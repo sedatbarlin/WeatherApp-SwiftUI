@@ -21,4 +21,3 @@ struct WeatherButton: View {
             .cornerRadius(15)
     }
 }
-
